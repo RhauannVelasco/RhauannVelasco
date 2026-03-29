@@ -4,6 +4,6 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=2000&color=2745F7&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Rhauann." />
 </h1>
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/RhauannVelasco/RhauannVelasco/output/github-contribution-grid-snake-neon.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RhauannVelasco/RhauannVelasco/output/github-contribution-grid-snake-neon.svg" style="background-color:#0d1117; border-radius:10px; padding:10px;" />
+</p>
