@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: RhauannVelasco
           outputs: |
-            dist/github-contribution-grid-snake-cyan.svg?color_snake=%2300E5FF&color_dots=%23222b36,%23003366,%230066cc,%230099ff,%2300ccff
+            dist/github-contribution-grid-snake-cyan.svg?color_snake=%2300E5FF&color_dots=%23161b22,%230a2540,%23003366,%230066cc,%2300aaff
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
