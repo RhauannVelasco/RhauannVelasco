@@ -8,3 +8,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RhauannVelasco/RhauannVelasco/output/github-contribution-grid-snake.svg" />
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RhauannVelasco&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhauannVelasco&layout=compact&theme=tokyonight)
