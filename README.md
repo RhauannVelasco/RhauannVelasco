@@ -5,5 +5,5 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RhauannVelasco/RhauannVelasco/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/RhauannVelasco/RhauannVelasco/output/github-contribution-grid-snake.svg" />
 </p>
