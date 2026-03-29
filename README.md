@@ -5,5 +5,5 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RhauannVelasco/RhauannVelasco/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/RhauannVelasco/RhauannVelasco/output/github-contribution-grid-snake-neon.svg" alt="Neon blue snake animation" />
 </p>
