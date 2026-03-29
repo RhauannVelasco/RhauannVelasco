@@ -15,12 +15,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate neon blue snake svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: RhauannVelasco
-          outputs: |
-            dist/github-contribution-grid-snake-neon.svg?color_snake=%2300E5FF&color_dots=%230D1117,%230A1A2F,%23003B73,%230006FF,%2300E5FF
+    - name: Generate snake svg
+  uses: Platane/snk/svg-only@v3
+  with:
+    github_user_name: RhauannVelasco
+    outputs: |
+      dist/github-contribution-grid-snake.svg?color_snake=%2300BFFF&color_dots=%23ebedf0,%23c6e48b,%237bc96f,%23239a3b,%2300BFFF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
