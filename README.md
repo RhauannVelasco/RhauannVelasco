@@ -6,6 +6,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RhauannVelasco/RhauannVelasco/output/github-contribution-grid-snake-neon.svg" style="background-color:#0d1117; border-radius:10px; padding:10px;" />
-</p> 
-
+  <img src="https://raw.githubusercontent.com/RhauannVelasco/RhauannVelasco/output/github-contribution-grid-snake.svg" />
+</p>
